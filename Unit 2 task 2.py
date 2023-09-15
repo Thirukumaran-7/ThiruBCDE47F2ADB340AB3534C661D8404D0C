@@ -52,7 +52,7 @@ class BankAccount:
 
 # Creating an instance of the BankAccount class
 
-my_account = BankAccount("123456789", "Harivignesh", 1000.0)
+my_account = BankAccount("123456789", "Thirukumaran ", 1000.0)
 
 
 
